@@ -1,0 +1,10 @@
+{
+  "SmtpServer": "smtp.example.com",
+  "Port": 578,
+  "EnableSsl": true,
+  "EmailFrom": "yourEmail@example.com",
+  "EmailPassword": "yourEmailPassword",
+  "EmailTo": "recipient@example.com",
+  "EmailSubject": "Process CDNWORK.exe Not Responding",
+  "EmailBody": "Process CDNWORK.exe has not been responding for 3 consecutive checks."
+}

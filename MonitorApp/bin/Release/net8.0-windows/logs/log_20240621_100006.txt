@@ -1,0 +1,3 @@
+21.06.2024 10:00:06: Plik z komendami nie istnieje.
+21.06.2024 10:00:08: Zaktualizowano licznik procesów: 0
+21.06.2024 10:00:08: Utworzono plik emailSettings.json z domyślnymi ustawieniami.

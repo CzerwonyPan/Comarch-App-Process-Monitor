@@ -1,0 +1,16 @@
+C:\Users\Jacek_LP\source\repos\MonitorApp\MonitorApp\bin\Debug\net8.0-windows\MonitorApp.exe
+C:\Users\Jacek_LP\source\repos\MonitorApp\MonitorApp\bin\Debug\net8.0-windows\MonitorApp.deps.json
+C:\Users\Jacek_LP\source\repos\MonitorApp\MonitorApp\bin\Debug\net8.0-windows\MonitorApp.runtimeconfig.json
+C:\Users\Jacek_LP\source\repos\MonitorApp\MonitorApp\bin\Debug\net8.0-windows\MonitorApp.dll
+C:\Users\Jacek_LP\source\repos\MonitorApp\MonitorApp\bin\Debug\net8.0-windows\MonitorApp.pdb
+C:\Users\Jacek_LP\source\repos\MonitorApp\MonitorApp\obj\Debug\net8.0-windows\MonitorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacek_LP\source\repos\MonitorApp\MonitorApp\obj\Debug\net8.0-windows\MonitorApp.AssemblyInfoInputs.cache
+C:\Users\Jacek_LP\source\repos\MonitorApp\MonitorApp\obj\Debug\net8.0-windows\MonitorApp.AssemblyInfo.cs
+C:\Users\Jacek_LP\source\repos\MonitorApp\MonitorApp\obj\Debug\net8.0-windows\MonitorApp.csproj.CoreCompileInputs.cache
+C:\Users\Jacek_LP\source\repos\MonitorApp\MonitorApp\obj\Debug\net8.0-windows\MonitorApp.dll
+C:\Users\Jacek_LP\source\repos\MonitorApp\MonitorApp\obj\Debug\net8.0-windows\refint\MonitorApp.dll
+C:\Users\Jacek_LP\source\repos\MonitorApp\MonitorApp\obj\Debug\net8.0-windows\MonitorApp.pdb
+C:\Users\Jacek_LP\source\repos\MonitorApp\MonitorApp\obj\Debug\net8.0-windows\MonitorApp.genruntimeconfig.cache
+C:\Users\Jacek_LP\source\repos\MonitorApp\MonitorApp\obj\Debug\net8.0-windows\ref\MonitorApp.dll
+C:\Users\Jacek_LP\source\repos\MonitorApp\MonitorApp\obj\Debug\net8.0-windows\MonitorApp.csproj.GenerateResource.cache
+C:\Users\Jacek_LP\source\repos\MonitorApp\MonitorApp\obj\Debug\net8.0-windows\MonitoringApp.Form1.resources
