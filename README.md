@@ -8,13 +8,13 @@ Aplikacja nie łaczy się do bazy danych. wykonuje tylko polecenia w opraciu o i
 
 Scenariusz: 
 
-1.Aplikacja monitoruje o dany interwał czasu.
+1. Aplikacja monitoruje o dany interwał czasu.
 
 2. aplikacja sprawdza ilość uruchomionych procesów [ilośc wpisanych komend jest np. 3 ] , jeśli ilość procesów nie wynosi 3.
 
-3.aplikacja zamika wszystkie procesy oraz po 10 s uruchamia wszystkie na nowo. 
+3. aplikacja zamika wszystkie procesy oraz po 10 s uruchamia wszystkie na nowo. 
 
-4.Jeśli proces nie odpowiada aplikacja sprawdzi to 2 raz[jeli za 2 razmem bedzie odpowiadał to aplikacja bedzie działać dalej] po czasie ustawionym w interwale następnie wyśle wiadomość na określony adres mail.
+4. Jeśli proces nie odpowiada aplikacja sprawdzi to 2 raz[jeli za 2 razmem bedzie odpowiadał to aplikacja bedzie działać dalej] po czasie ustawionym w interwale następnie wyśle wiadomość na określony adres mail.
 
 5. apliakcja bedzie wsyłać mail aż do czasu podjęcia akcji przez administratora.
 
@@ -44,12 +44,17 @@ The application does not connect to a database; it only executes commands based 
 
 Scenario:
 
-1.The application monitors at a given interval.
-2.The application checks the number of running processes (the number of entered commands is, for example, 3). If the number of processes is not 3:
-3.The application closes all processes and restarts them after 10 seconds.
-4.If a process does not respond, the application will check again (if it responds the second time, the application will continue to operate) after the interval time and then send an email to the specified address.
-5.The application will keep sending emails until the administrator takes action.
-6.Remedy: Stop the application (STOP button) -> remove processes in Comarch XL (Processes tab) -> start the program (START button).
+1. The application monitors at a given interval.
+
+2. The application checks the number of running processes (the number of entered commands is, for example, 3). If the number of processes is not 3:
+
+3. The application closes all processes and restarts them after 10 seconds.
+
+4. If a process does not respond, the application will check again (if it responds the second time, the application will continue to operate) after the interval time and then send an email to the specified address.
+
+5. The application will keep sending emails until the administrator takes action.
+
+6. Remedy: Stop the application (STOP button) -> remove processes in Comarch XL (Processes tab) -> start the program (START button).
 
 Location of the compiled application: MonitorApp\bin\Release\net8.0-windows
 
